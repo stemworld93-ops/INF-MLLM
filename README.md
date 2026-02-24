@@ -51,7 +51,7 @@ Overview of Infinity-Parser training framework. Our model is optimized via reinf
 conda create -n Infinity_Parser python=3.11
 conda activate Infinity_Parser
 
-git clone https://github.com/infly-ai/INF-MLLM.git
+git clone https://github.com/stemworld93-ops/INF-MLLM.git
 cd INF-MLLM/Infinity-Parser
 # Install pytorch, see https://pytorch.org/get-started/previous-versions/ for your cuda version
 conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 pytorch-cuda=12.1 -c pytorch -c nvidia
@@ -305,3 +305,4 @@ We would like to thank [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [Mine
       url={https://arxiv.org/abs/2506.03197}, 
 }
 ```
+
