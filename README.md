@@ -48,7 +48,7 @@ Overview of Infinity-Parser training framework. Our model is optimized via reinf
 
 ## Install Infinity_Parser
 ```shell
-conda create -n Infinity_Parser python=3.11
+conda create -n Infinity_Parser python=3.14.3
 conda activate Infinity_Parser
 
 git clone https://github.com/stemworld93-ops/INF-MLLM.git
@@ -305,4 +305,5 @@ We would like to thank [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [Mine
       url={https://arxiv.org/abs/2506.03197}, 
 }
 ```
+
 
